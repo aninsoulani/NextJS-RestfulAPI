@@ -12,6 +12,7 @@
     "@hookform/resolvers": "^3.1.1",
     "axios": "^0.26.1",
     "bootstrap": "^5.1.3",
+    "js-cookie": "^3.0.1",
     "next": "13.4.9",
     "next-link": "^2.0.0",
     "react": "18.2.0",
